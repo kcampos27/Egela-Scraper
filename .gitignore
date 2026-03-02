@@ -1,0 +1,12 @@
+# Ignorar carpetas de temas de eGela
+General/
+HTTP/
+Instalación SW/
+Práctica 1/
+Práctica 2/
+REPASO/
+WEB SCRAPING/
+
+# O más genérico, ignorar todos los PDFs
+*.pdf
+*.csv
